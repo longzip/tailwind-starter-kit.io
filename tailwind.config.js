@@ -8,6 +8,10 @@ module.exports = {
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
+    fontFamily: {
+      display: ['Noto Sans', 'sans-serif'],
+      body: ['Noto Sans', 'sans-serif'],
+    },
     extend: {},
   },
   variants: {
